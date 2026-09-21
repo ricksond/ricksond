@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Rickson D'Souza 👋</h1>
-
-<p align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rickson+D'Souza+%F0%9F%91%8B;Data+Engineer+%7C+AI%2FML+Engineer;Building+Data+Pipelines+%26+ML+Systems;Python+%7C+SQL+%7C+Databricks+%7C+AWS" alt="Typing animation" />
-</p>
+</h2>
 
 <h3 align="center">Data Engineer | AI/ML Engineer | Data Science Graduate Student</h3>
 
@@ -18,8 +16,8 @@
   <a href="https://github.com/ricksond">
     <img src="https://img.shields.io/badge/GitHub-ricksond-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/rickson-dsouza-154bb526a" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/rickson-dsouza-154bb526a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -148,4 +146,182 @@ Worked on an enterprise machine learning initiative spanning data preparation, e
 * Collaborated with Analytics Developers and the ETL team to integrate the model into a production analytics pipeline.
 * Developed a **Tableau dashboard with automated daily refreshes** from the Python ML pipeline.
 * Documented model development, evaluation, deployment processes, and business recommendations.
-* Presented the en
+* Presented the end-to-end machine learning solution and business outcomes to **C-suite executives**.
+
+### Data Science & Machine Learning Intern
+
+**ZEPHYR Technologies & Solutions** · January 2025 – May 2025
+
+* Processed and cleaned **50,000+ structured records** using Pandas and NumPy.
+* Conducted exploratory data analysis to identify feature relationships and opportunities for feature engineering.
+* Developed classification and regression models using scikit-learn with cross-validation and hyperparameter tuning.
+* Improved model accuracy from a **72% baseline to 85%**.
+* Built a content-based movie recommendation system using similarity metrics and user behavior patterns.
+* Designed Power BI dashboards and Python visualizations to communicate analytical findings.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ Retail Sales Data Engineering & ML Pipeline
+
+**Python · SQL · PostgreSQL · dbt · Airflow · Docker · GitHub Actions**
+
+An end-to-end data engineering and machine learning pipeline built around a **Bronze → Silver → Gold** architecture.
+
+* Processed **6,435 Walmart sales records** through a structured data pipeline.
+* Built reusable Python and SQL ETL workflows.
+* Implemented data-quality validation for duplicates, nulls, constraints, grain, and source-to-target consistency.
+* Used **dbt** for data transformation and modeling.
+* Engineered time-based ML features and developed multiple regression models using scikit-learn.
+* Achieved **$41.0K MAE, $66.5K RMSE, and 0.984 R²** on the held-out test set with a tuned Random Forest model.
+* Orchestrated ingestion, transformations, ML predictions, and validation using **Apache Airflow and Docker**.
+* Implemented idempotent data and prediction loading patterns.
+* Added automated validation through **GitHub Actions**.
+
+---
+
+### 🧱 Modern Data Platform & ML Pipeline
+
+**Databricks · Delta Lake · dbt · Airflow · Kubernetes · Terraform · Python**
+
+A classification-focused data engineering and machine learning project designed around modern data platform and infrastructure practices.
+
+**Focus areas:**
+
+* Delta Lake Bronze → Silver → Gold architecture
+* Databricks analytical workflows
+* Data ingestion and transformation
+* Classification ML pipelines
+* Airflow orchestration
+* Kubernetes
+* Terraform infrastructure-as-code
+* CI/CD and automated validation
+
+---
+
+### 🤖 AI Applications
+
+Additional projects exploring practical AI and machine learning applications, including:
+
+* AI-powered conversational systems
+* Retrieval-grounded chatbots
+* Recommendation systems
+* AI agents
+* Structured-data retrieval
+* Full-stack AI applications
+
+---
+
+## 🧩 How I Like to Build
+
+I enjoy understanding the **whole system**, not just one component.
+
+```text
+                 ┌───────────────┐
+                 │   Raw Data    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    Ingest     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   Transform   │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │  Data Model   │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   ML / AI     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   Evaluate    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   Deploy      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │  Automate     │
+                 └───────────────┘
+```
+
+Because a model that works perfectly in a notebook is great...
+
+**...until someone asks you to run it every morning at 8 AM.**
+
+That's where the engineering comes in.
+
+---
+
+## 📚 Currently Learning
+
+I'm continuing to expand my skills across:
+
+`Databricks` · `Delta Lake` · `AWS` · `Kubernetes` · `Terraform` · `ML Engineering` · `AI Engineering`
+
+My goal is to build systems that are:
+
+**Reliable → Reproducible → Automated → Scalable**
+
+---
+
+## 🎯 Career Focus
+
+I'm working toward a career as a **Data Engineer / AI-ML Engineer**, with an emphasis on building the infrastructure and systems behind intelligent applications.
+
+I'm particularly interested in the space where:
+
+```text
+Data Engineering
+       +
+Machine Learning
+       +
+Cloud Infrastructure
+       +
+AI
+       =
+Intelligent Data Systems
+```
+
+The goal isn't just to train a model.
+
+It's to build the **data, infrastructure, automation, and ML systems that allow the model to actually be useful.**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricksond&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricksond&layout=compact&hide_border=true&langs_count=8" height="170" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ricksond&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:ricksond2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ricksond2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ricksond">
+    <img src="https://img.shields.io/badge/GitHub-ricksond-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rickson-dsouza-154bb526a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building data systems. Training models. Engineering intelligent solutions.</i>
+</p>
