@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-ricksond-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/rickson-dsouza-154bb526a" alt="LinkedIn"/>
   </a>
 </p>
 
