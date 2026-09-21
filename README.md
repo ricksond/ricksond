@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>🎓 M.S. Data Science — Virginia Commonwealth University</strong><br>
-  <strong>📅 Expected Graduation: May 2027 &nbsp;|&nbsp; 💼 Available: May 2027</strong>
+  <strong>📅 Expected Graduation: May 2027 &nbsp;|&nbsp; 💼 Available: June 2027</strong>
 </p>
 
 <p align="center">
